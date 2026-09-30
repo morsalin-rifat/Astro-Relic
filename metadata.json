@@ -1,0 +1,6 @@
+{
+  "name": "Astro Relic - Abandoned but not Forgotten",
+  "description": "Interactive WebGL storytelling and AI archaeological adventure exploring NASA's historical relics and rovers on the Moon and Mars for NASA Space Apps Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
